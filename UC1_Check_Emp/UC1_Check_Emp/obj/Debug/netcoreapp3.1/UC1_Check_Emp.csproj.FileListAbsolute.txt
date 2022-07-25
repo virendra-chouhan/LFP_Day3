@@ -1,0 +1,14 @@
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.exe
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.deps.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.runtimeconfig.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.runtimeconfig.dev.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\bin\Debug\netcoreapp3.1\UC1_Check_Emp.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.csproj.AssemblyReference.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.GeneratedMSBuildEditorConfig.editorconfig
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.AssemblyInfoInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.AssemblyInfo.cs
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.csproj.CoreCompileInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\UC1_Check_Emp\UC1_Check_Emp\obj\Debug\netcoreapp3.1\UC1_Check_Emp.genruntimeconfig.cache
