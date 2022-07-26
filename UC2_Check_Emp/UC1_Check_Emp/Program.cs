@@ -6,24 +6,23 @@ namespace UC1_Check_Emp
     {
         static void Main(string[] args)
         {
-            int Is_Fulltime = 1;
-            int Emp_Hours;
-            int Emp_Hrs_Rate = 25;
-            int Emp_Wage = 0;
+            int Is_Present = 1;
+            
+            
+            
 
             Random random = new Random();
 
             int emp_type = random.Next(0, 2);
-            if (emp_type == Is_Fulltime)
+            if (emp_type == Is_Present)
             {
-                Emp_Hours = 8;
+                Console.WriteLine("Your_Are_Present");
             }
             else
             {
-                Emp_Hours = 4;
+                Console.WriteLine("You_Are_Absent");
             }
-            Emp_Wage = Emp_Hours * Emp_Hrs_Rate;
-            Console.WriteLine("Emp_Wage:" + Emp_Wage);
+            
         }
     }
 }
