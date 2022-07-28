@@ -1,0 +1,14 @@
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.exe
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.deps.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.runtimeconfig.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.runtimeconfig.dev.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\bin\Debug\netcoreapp3.1\UC3_CheckEmpWage.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.csproj.AssemblyReference.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.GeneratedMSBuildEditorConfig.editorconfig
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.AssemblyInfoInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.AssemblyInfo.cs
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.csproj.CoreCompileInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC3_CheckEmpWage\UC3_CheckEmpWage\obj\Debug\netcoreapp3.1\UC3_CheckEmpWage.genruntimeconfig.cache
