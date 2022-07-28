@@ -1,0 +1,14 @@
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.exe
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.deps.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.runtimeconfig.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.runtimeconfig.dev.json
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\bin\Debug\netcoreapp3.1\UC4_Emp_Wage_.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.csproj.AssemblyReference.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.GeneratedMSBuildEditorConfig.editorconfig
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.AssemblyInfoInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.AssemblyInfo.cs
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.csproj.CoreCompileInputs.cache
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.dll
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.pdb
+C:\virendra\Backup\Projects\Bridgelabz-dev\LFP_Programm\Assignment\Day3_Assignment\UC4_Emp_Wage\UC4_Emp_Wage_\UC4_Emp_Wage_\obj\Debug\netcoreapp3.1\UC4_Emp_Wage_.genruntimeconfig.cache
