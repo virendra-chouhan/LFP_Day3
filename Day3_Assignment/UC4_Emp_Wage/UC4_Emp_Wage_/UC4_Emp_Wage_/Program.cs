@@ -9,6 +9,7 @@ namespace UC4_Emp_Wage_
 
         public const int Emp_Hrs_Rate = 25;
         public const int Num_of_Working_Days = 26;
+        public const int Max_Hrs_In_Month = 160;
 
 
 
@@ -16,11 +17,13 @@ namespace UC4_Emp_Wage_
         {
             int Emp_Hours;
             int Emp_Wage;
-            int Total_Emp_Wage=0;
+            int Total_Emp_Wage = 0;
+            int Total_Emp_Hrs = 0;
+            int Total_Working_Day = 0;
 
-            for(int days=0; days < Num_of_Working_Days; days++) 
+            while(Total_Emp_Hrs <= Max_Hrs_In_Month && Total_Working_Day <= Num_of_Working_Days) 
             {
-
+                Total_Working_Day++;
                 Random random = new Random();
                 int emp_type = random.Next(0, 3);
 
@@ -37,13 +40,14 @@ namespace UC4_Emp_Wage_
                         break;
                 }
 
-                Emp_Wage = Emp_Hours * Emp_Hrs_Rate;
-                Total_Emp_Wage = Emp_Wage + Total_Emp_Wage;
+                Total_Emp_Hrs = Emp_Hours + Total_Emp_Hrs;
+                
 
-                Console.WriteLine("Emp_Type:" + emp_type);
-                Console.WriteLine("Emp_Wage:" + Emp_Wage);
+                Console.WriteLine("Emp_Hours:" + Emp_Hours);
+                Console.WriteLine("Total_Working_Day:" + Total_Working_Day);
             }
-            Console.WriteLine("Total_Emp_Wage:" + Total_Emp_Wage);
+            Emp_Wage = Total_Emp_Hrs * Emp_Hrs_Rate;
+            Console.WriteLine("Total_Emp_Wage:" + Emp_Wage);
         }
     }
 }
