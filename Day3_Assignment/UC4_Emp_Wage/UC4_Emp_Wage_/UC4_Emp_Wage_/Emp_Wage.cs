@@ -41,20 +41,21 @@ namespace UC4_Emp_Wage_
 
                 Total_Emp_Hrs = Emp_Hours + Total_Emp_Hrs;
 
-
+                Emp_Wage = Total_Emp_Hrs * Emp_Hrs_Rate;
                 Console.WriteLine("Emp_Hours:" + Emp_Hours);
                 Console.WriteLine("Total_Working_Day:" + Total_Working_Day);
+                Dictionary<string, int> Company_List = new Dictionary<string, int>();
+                Company_List.Add(company, Emp_Wage);
+
+                foreach (KeyValuePair<string, int> ele1 in Company_List)
+                {
+                    Console.WriteLine("{0} Total Wage {1}", ele1.Key, ele1.Value);
+                }
             }
             Emp_Wage = Total_Emp_Hrs * Emp_Hrs_Rate;
             Console.WriteLine("Total_Emp_Wage of Company:" + company + Emp_Wage);
             
-            Dictionary<string, int> Company_List = new Dictionary<string, int>();
-            Company_List.Add(company, Emp_Wage);
-
-            foreach(KeyValuePair<string, int> ele2 in Company_List)
-            {
-                Console.WriteLine("{0} Total Wage {1}", ele2.Key, ele2.Value);
-            }
+            
 
         }
         
