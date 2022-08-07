@@ -47,6 +47,20 @@ namespace UC4_Emp_Wage_
             }
             Emp_Wage = Total_Emp_Hrs * Emp_Hrs_Rate;
             Console.WriteLine("Total_Emp_Wage of Company:" + company + Emp_Wage);
+            
+            Dictionary<string, int> Company_List = new Dictionary<string, int>();
+            Company_List.Add(company, Emp_Wage);
+
+            foreach(KeyValuePair<string, int> ele2 in Company_List)
+            {
+                Console.WriteLine("{0} Total Wage {1}", ele2.Key, ele2.Value);
+            }
+
         }
+        
+
+
+
+
     }
 }
